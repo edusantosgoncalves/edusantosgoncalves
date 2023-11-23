@@ -137,3 +137,5 @@
     />
   </a>
 </p>
+
+![edusantosgoncalves's Stats](https://github-readme-stats.vercel.app/api?username=edusantosgoncalves&theme=blueberry&show_icons=true&hide_border=true&count_private=true) ![edusantosgoncalves's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edusantosgoncalves&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
