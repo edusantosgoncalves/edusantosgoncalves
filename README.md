@@ -5,7 +5,7 @@
 - 🎓 Undergraduate student at **UNIRIO** pursuing a **bachelor's degree in Information Systems**
 - 🔭 I’m currently searching about **identifying possible software requirements at software ecossistems (SECO)**
 - 🧑🏻‍💻 Junior Systems Development Analyst at **CEPEL/Eletrobras**
-- 🌱 I’m currently learning **React, Python and Javascript**
+- 🌱 I’m currently learning **React, Javascript and Laravel**
 - 🎶 Music is what inspires me
 - 🎮 I love to play at my free time
 - 📍 Living in Rio de Janeiro, Brazil
