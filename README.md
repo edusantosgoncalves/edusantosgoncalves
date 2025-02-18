@@ -2,12 +2,13 @@
 
 <h3 align="center">A passionate database and back-end enthusiast from Brazil</h3>
 
-- 🎓 Undergraduate student at **UNIRIO** pursuing a **bachelor's degree in Information Systems**
-- 🔭 I’m currently searching about **identifying possible software requirements at software ecossistems (SECO)**
-- 🧑🏻‍💻 Junior Systems Development Analyst I at **CEPEL/Eletrobras**
-- 🌱 I’m currently learning **React, Javascript and Laravel**
+- 🎓 **Bachelor's degree in Information Systems** from **UNIRIO** 
+- 🔭 I’m currently searching about **identifying possible software requirements at software ecosystems (SECO)**
+- 🧑🏻‍💻 Developer I at **CEPEL/Eletrobras**
+- 🌱 I’m currently learning **React, NodeJS and Laravel**
 - 🎶 Music is what inspires me
 - 🎮 I love to play at my free time
+- 🎥 I'm a movie lover
 - 📍 Living in Rio de Janeiro, Brazil
 
 <h3 align="left"> My Skills </h3>
